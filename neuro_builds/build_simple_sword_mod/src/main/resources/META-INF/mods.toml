@@ -1,0 +1,11 @@
+// ROLE: Code Refiner
+// ORIGINAL CODE: // AUTO-GENERATED: src/main/resources/META-INF/mods.toml
+// Context: Project structure: {
+  "mod_id": "simple_sword_mod",
+  "files": [
+    "build.gradle",
+    "src/main/java/com/simple_sword_mod/Simple_sword_modMod.java",
+    "src/main/java/com/simple_sword_mod/item/Si
+// VALIDATOR FEEDBACK: ERROR: Missing @Mod annotation or incorrect Java template
+// TASK: Fix errors while maintaining Forge compatibility
+�
